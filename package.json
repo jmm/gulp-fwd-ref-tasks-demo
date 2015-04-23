@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "gulp": "jmm/gulp#fwd-ref-tasks"
+  }
+}
