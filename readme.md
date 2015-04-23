@@ -1,4 +1,4 @@
-See gulpjs/gulp/issues/1038.
+See gulpjs/gulp#1038.
 
 # Part A
 1. Clone this repo.
